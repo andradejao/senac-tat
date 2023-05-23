@@ -1,1 +1,1 @@
-Reposiório das aulas de Windows do Senac Tatuapé
+Repositório das aulas de Windows do Senac Tatuapé
