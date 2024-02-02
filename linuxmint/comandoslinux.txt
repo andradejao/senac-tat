@@ -19,7 +19,7 @@ sudo apt autoremove  #auto remoção de software
 
 sudo apt autoclean  #auto limpeza do SO
 
-sudo apt install vim #instalar software
+sudo apt install #instalar software
 
 sudo reboot #reiniciar o sistema
 
